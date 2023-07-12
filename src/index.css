@@ -1,0 +1,13 @@
+.buttons{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: inherit;
+  padding-right: 230px
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
